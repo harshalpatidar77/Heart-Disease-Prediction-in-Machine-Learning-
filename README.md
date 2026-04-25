@@ -9,6 +9,7 @@ The project follows a complete machine learning pipeline, including:
 * Feature selection and engineering
 * Model building (Logistic Regression) 
 * Model evaluation using metrics such as accuracy, precision, r2_score, Mean Square Error. 
+
 The final model can predict the risk of heart disease based on input data and can be further extended for deployment in real-world healthcare applications.
 ## Dataset 
 Heart disease dataset(heart_disease_data.csv) 
