@@ -6,7 +6,7 @@ Heart disease dataset(heart_disease_data.csv)
 ## Technologies Used 
 -- Python 
 -- Pandas 
--- Scikit--learn 
+-- Matplotlib and Seaborn  
 ## Model 
 -- Logistic Regression 
 ## Result 
